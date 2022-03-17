@@ -326,6 +326,7 @@ class WickedPdf
       r += make_options(options, [:book,
                                   :default_header,
                                   :disable_javascript,
+                                  :enable_local_file_access,
                                   :enable_plugins,
                                   :disable_internal_links,
                                   :disable_external_links,
