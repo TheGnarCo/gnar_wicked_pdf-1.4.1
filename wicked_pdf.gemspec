@@ -5,7 +5,7 @@ require 'wicked_pdf/version'
 require 'English'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'gnar_wicked_pdf'
+  spec.name          = 'wicked_pdf'
   spec.version       = '1.4.1'
   spec.authors       = ['Miles Z. Sterrett', 'David Jones']
   spec.email         = ['miles.sterrett@gmail.com', 'unixmonkey1@gmail.com']
