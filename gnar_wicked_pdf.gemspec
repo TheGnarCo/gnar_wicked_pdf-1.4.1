@@ -5,11 +5,11 @@ require 'wicked_pdf/version'
 require 'English'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'wicked_pdf'
-  spec.version       = WickedPdf::VERSION
+  spec.name          = 'gnar_wicked_pdf'
+  spec.version       = '1.4.1'
   spec.authors       = ['Miles Z. Sterrett', 'David Jones']
   spec.email         = ['miles.sterrett@gmail.com', 'unixmonkey1@gmail.com']
-  spec.summary       = 'PDF generator (from HTML) gem for Ruby on Rails'
+  spec.summary       = 'Gnar fork --- PDF generator (from HTML) gem for Ruby on Rails'
   spec.homepage      = 'https://github.com/mileszs/wicked_pdf'
   spec.license       = 'MIT'
   spec.date          = Time.now.strftime('%Y-%m-%d')
